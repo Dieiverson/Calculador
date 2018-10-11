@@ -1,0 +1,55 @@
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\Dieiverson\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+E:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+E:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+E:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+E:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+E:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+E:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+E:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+E:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+E:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+E:\programação\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+E:\programação\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+E:\programação\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+E:\programação\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+E:\programação\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+E:\programação\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+E:\programação\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+E:\programação\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+E:\programação\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\17000001509\Desktop\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\17000001504\Desktop\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+E:\programação\CALCULADORA CERTA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+E:\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.exe
+E:\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+E:\programação\CALCULADORA CERTA\CALCULADORA\bin\Debug\CALCULADORA.exe
+E:\programação\CALCULADORA CERTA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+E:\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+E:\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+E:\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+E:\programação\CALCULADORA CERTA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
